@@ -10,7 +10,9 @@ Align all your tiles in a grid and assign them as childs to an empty game object
 ![Example](examples/example1.png?raw=true "Example")
 
 Mark every wall or obstacle with the tag "Wall".
+
 Add GridGenerator.cs to your tile-map object.
+
 Start the game. You should see a message like this in the console:
 
 ```
@@ -28,7 +30,8 @@ Grid:
 1 1 1 1 1 1 1 1 1 1 1 1
 ```
 
-1 = Walls (true); 0 = Ground (false)
+1 = Walls (true)
+0 = Ground (false)
 
 GridGenerator.cs has a getter for the Grid:
 
