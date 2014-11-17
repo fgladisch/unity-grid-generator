@@ -30,9 +30,6 @@ Grid:
 1 1 1 1 1 1 1 1 1 1 1 1
 ```
 
-1 = Walls (true)
-0 = Ground (false)
-
 GridGenerator.cs has a getter for the Grid:
 
 ```csharp
