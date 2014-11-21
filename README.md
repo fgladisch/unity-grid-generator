@@ -1,7 +1,7 @@
 Unity Grid Generator
 ====================
 
-A simple C#-Unity-Script, that computes a grid for tile-based 2D-Games.
+A simple Unity script, that computes a grid for tile-based 2D-Games.
 
 ## Usage
 
